@@ -21,7 +21,7 @@ Code Versioning Systems: Git and GitHub
    Sign up/Sign in
 6. Integrated the Sign-in/Sign-up/Sign-out pages and connected with the Landing page
 
-- [Feel free to checkout the Demo](https://dev.d1lnakdl8cijq4.amplifyapp.com/)
+[Feel free to checkout the Demo](https://dev.d1lnakdl8cijq4.amplifyapp.com/)
 
 ### Sprint 2: Learnings
 1. Learned how to create the User stories and branches in GitHub
