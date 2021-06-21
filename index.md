@@ -43,3 +43,28 @@ Code Versioning Systems: Git and GitHub
 1. Started Research on how to extract skills from Resume using NLP and Python
 2. Discovered that two libraries in python ie., Pyreparser and resumeparser, provides the facility to extract skills from resume of any format
 3. Tried using NLP for skills extraction, some worked and some didn't
+
+### Sprint 5: Learnings
+1. Started Research on How data is maintained globally
+2. Checked references on LER from emsi and MIT University
+3. Learnt how the digital credential systems work and store the credentials
+4. Got to know how issuer issue the credential and how the learner accepts the credential digitally in either the form of badges and certifications.
+5. Researced on digital wallets for storing credentials from different sources.
+6. Right now, only couple of companies are accessing this Credential system all over the world.
+7. [Checkout the white paper on LERs](https://www.commerce.gov/sites/default/files/2020-09/LERwhitepaper09222020.pdf)
+
+### Sprint 6: Learnings
+1. Reasearched on various global companies that are offering LERs ( Learning and Employment Records ) for storing digital credentials and accomplishments of an Individual.
+2. Reasearched on how the company "Velocity" works and implements the digital wallets for storing the digital credentials.
+3. [Checkout the white paper on Velocity](https://www.velocitynetwork.foundation/wp-content/uploads/2020/09/Velocity-Non-Technical-Whitepaper-123120-V1.17.pdf)
+4. Microsoft Azure has approached the concept of storing digital credentials and all. [Check out the video](https://youtu.be/Ew-_F-OtDFI)
+5. AyanWorks has come up with an idea for decentralised digital identity.[Watch the video for details](https://youtu.be/rvYeREjYBEg)
+
+### Sprint 7: Learnings
+1. Reasearched for references on how to design the User profile page
+2. Started implementing the new user story, which is to create a User profile page
+3. In the user profile page, the user can fill in their personal details like About, Education, Work Experience
+4. The user can also add social accounts like Github, LinkedIN, Google.
+
+
+
