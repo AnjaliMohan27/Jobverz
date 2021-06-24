@@ -3,7 +3,7 @@
 ### Project Description
 The theme of the project is to generate insights and provide guidance for the users based on the job postings on different sights (eg, Indeed, Monster, etc.,).It also generates knowledge graph of domain specializations. Tracks latest addition to Wikipedia articles to identify emergent domains or specializations. Helps the individuals to shift from one learning path to another.
 
-
+[Check out the work](https://dev.d1lnakdl8cijq4.amplifyapp.com/)
 
 ### Technologies used
 Frontend : React JS
@@ -21,7 +21,6 @@ Code Versioning Systems: Git and GitHub
    Sign up/Sign in
 6. Integrated the Sign-in/Sign-up/Sign-out pages and connected with the Landing page
 
-[Feel free to checkout the Demo](https://dev.d1lnakdl8cijq4.amplifyapp.com/)
 
 ### Sprint 2: Learnings
 1. Learned how to create the User stories and branches in GitHub
